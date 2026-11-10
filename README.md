@@ -28,17 +28,26 @@
 
 ---
 
-## 🎓 Percorso Formativo — Corso ITS
+## Su di me
+
+- Sto attualmente studiando per diventare **Data Specialist**: pipeline ETL, SQL/NoSQL, Python e Machine Learning
+- Disponibile su progetti di **analisi dati e Data Engineering** — se hai un'idea, scrivimi!
+- Come contattarmi: [LinkedIn](LINKEDIN_URL)
+- Fun fact: faccio **arrampicata** — come nel data, la chiave è trovare la via giusta, un appiglio alla volta!
+
+---
+
+## Percorso Formativo — Corso ITS
 
 Sto frequentando un corso ITS in **Business Intelligence & Data Specialist**, che copre:
 
-- 📊 **Business Intelligence** e analisi dati
-- 🗄️ Database relazionali (**SQL**) e **NoSQL**
-- 💻 Programmazione: **Python, JavaScript, Node.js**
-- 🌐 Sviluppo web: **HTML, CSS**
-- 🐧 **Linux OS**, reti di calcolatori e **RESTful API**
-- ☁️ **Cloud services**, containerizzazione e **Machine Learning**
-- 💰 Introduzione a **finance e blockchain**
+- **Business Intelligence** e analisi dati
+- Database relazionali (**SQL**) e **NoSQL**
+- Programmazione: **Python, JavaScript, Node.js**
+- Sviluppo web: **HTML, CSS**
+- **Linux OS**, reti di calcolatori e **RESTful API**
+- **Cloud services**, containerizzazione e **Machine Learning**
+- Introduzione a **finance e blockchain**
 
 ---
 
@@ -62,19 +71,3 @@ Sto frequentando un corso ITS in **Business Intelligence & Data Specialist**, ch
 ---
 
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-BID&show_icons=true&theme=default)
-
-
-<!--
-**joshua-BID/joshua-BID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
