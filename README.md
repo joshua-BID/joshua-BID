@@ -70,4 +70,3 @@ Sto frequentando un corso ITS in **Business Intelligence & Data Specialist**, ch
 
 ---
 
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-BID&show_icons=true&theme=default)
