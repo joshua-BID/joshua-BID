@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 👋 Ciao, sono Joshua Galarza!
 
