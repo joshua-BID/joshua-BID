@@ -55,7 +55,7 @@ Sto frequentando un corso ITS in **Business Intelligence & Data Specialist**, ch
 
 - Costruire pipeline **ETL** efficienti e scalabili
 - Approfondire **Machine Learning** e Data Science applicata
-- Lavorare con soluzioni **cloud** e architetture dati moderne
+- (aggiungi BI)
 
 ---
 
